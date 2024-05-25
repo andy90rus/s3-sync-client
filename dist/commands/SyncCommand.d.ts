@@ -16,5 +16,7 @@ export declare class SyncCommand {
     target: string;
     options: SyncOptions;
     constructor(input: SyncCommandInput);
+    private protocolRegexp;
     execute(client: S3Client): Promise<SyncCommandOutput>;
+    private getBucketPrefix;
 }
