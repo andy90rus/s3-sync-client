@@ -1,0 +1,1 @@
+{"version":3,"file":"LocalObject.js","sourceRoot":"","sources":["../../src/fs/LocalObject.ts"],"names":[],"mappings":";;;AAAA,6CAA6D;AAM7D,MAAa,WAAY,SAAQ,uBAAU;IACzC,IAAI,CAAS;IAEb,YAAY,OAA2B;QACrC,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,OAAO,CAAC,IAAI,CAAC;IAC3B,CAAC;CACF;AAPD,kCAOC"}
